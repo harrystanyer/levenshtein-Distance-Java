@@ -1,4 +1,3 @@
-//https://en.wikipedia.org/wiki/Levenshtein_distance#Upper_and_lower_bounds
 public class levenshteinDistance {
     public static void main(String[] args) {
 		System.out.println(levDist(new char[]{'p','r','i','n','t'}, new char[]{'p','r','i','g'}));
